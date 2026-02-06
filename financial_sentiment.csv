@@ -1,0 +1,11 @@
+Headline,Score,Trade Signal
+"Company A reports amazing, wonderful profit growth.",0.8,Buy
+"Company B suffers terrible, horrific losses this quarter.",-0.8666666666666667,Sell
+"Company C launches an excellent, outstanding new product.",0.5454545454545454,Buy
+Regulatory concerns are awful and disgusting for Company D.,-1.0,Sell
+"Company E declares bankruptcy, a miserable failure.",-0.6583333333333333,Sell
+Company F announces a fantastic strategic partnership.,0.4,Neutral
+Supply chain issues are annoying but defined.,-0.8,Sell
+"Company H raises dividend, making shareholders very happy.",1.0,Buy
+"Analysts downgrade Company I, calling it a dreadful investment.",-1.0,Sell
+"Company J beats earnings estimates, simply success.",0.3,Neutral

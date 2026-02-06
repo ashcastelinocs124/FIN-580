@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+matplotlib
+quantstats
+streamlit
+plotly
+duckduckgo-search
+textblob
